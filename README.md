@@ -1,2 +1,2 @@
-# all-htmlfolders
+# all tasks
 git
