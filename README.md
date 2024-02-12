@@ -1,2 +1,2 @@
-# all tasks
+# tasks
 git
